@@ -3,11 +3,9 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
-      <h1 className="text-2xl">Dashboard</h1>
-
-      <Button>Teste</Button>
-    </div>
+    <>
+      <h1>Teste</h1>
+    </>
   );
 };
 
