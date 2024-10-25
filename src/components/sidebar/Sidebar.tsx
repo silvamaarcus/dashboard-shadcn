@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 
 import { Sheet, SheetTrigger, SheetContent } from "@/components/ui/sheet";
@@ -12,7 +10,6 @@ import {
   Users,
   Settings2,
   ShoppingBag,
-  Settings,
   LogOut,
 } from "lucide-react";
 import {
